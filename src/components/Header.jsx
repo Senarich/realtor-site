@@ -16,7 +16,7 @@ export default function Header() {
         <div>
           <img
             src={Logo}
-            alt="logo"
+            alt="logo" 
             className="h-5 cursor-pointer"
             onClick={() => navigate("/")}
           />
